@@ -5,6 +5,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.io.FileWriter;
 
+// Ryan Phadnis
 // compile: javac Inventory.java
 // run: java Inventory invent.dat
 // both: javac Inventory.java; java Inventory invent.dat
